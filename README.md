@@ -11,4 +11,4 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ## Stack
-Python, SQL, Power BI, Tableau, Google Sheets, Excel
+Python, SQL, BigQuery, Power BI, Tableau, Google Sheets, Excel
